@@ -1,0 +1,7 @@
+R Vectors 
+Vectors are characterized by their size and type of the elemets 
+All elelmts HAVE to be of the same type in vector 
+Vectors are index-based and you can can acess the elements by their position (index)
+Can create a vector with the command c() 
+ex - melons <- c(3.4,3.1,3,4.5)
+to access the weight of melon 1 we would use melons[1]
